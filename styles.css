@@ -2,31 +2,26 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background: #f5f5f5;
 }
 
 header {
-  background-color: #333;
+  background: #333;
   color: white;
-  padding: 1em;
   text-align: center;
+  padding: 2rem;
 }
 
-#projects {
-  padding: 2em;
+section {
+  padding: 2rem;
 }
 
-.project {
-  background: white;
-  margin-bottom: 1em;
-  padding: 1em;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+h2 {
+  color: #444;
 }
 
 footer {
   text-align: center;
-  padding: 1em;
-  background-color: #333;
-  color: white;
+  padding: 1rem;
+  background: #eee;
 }
